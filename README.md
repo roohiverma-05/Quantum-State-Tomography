@@ -1,4 +1,2 @@
-# Summer 2025 Research Internship
-This is a research internship project under Professor Arvind, IISER Mohali in the field of Quantum Computing and Quantum Information Theory. 
-<br>
-Research Statement: Quantum State Tomography Protocol to reconstruct unknown quantum state. 
+# Summer 2025 Research Internship:
+Quantum State Tomography: Reconstruction of Unknown Quantum States using Quantum State Measurements and Maximum Likelihood Estimation 
